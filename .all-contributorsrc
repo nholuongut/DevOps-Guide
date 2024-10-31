@@ -1,0 +1,22 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nholuongut",
+      "name": "Nho Luong",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "DevOps-Guide",
+  "projectOwner": "Nho Luong",
+  "repoType": "github",
+  "repoHost": "https://github.com/nholuongut",
+  "skipCi": true
+}
